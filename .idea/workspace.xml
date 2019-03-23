@@ -2,21 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7edec50-944d-45f7-91b4-a47184889e09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Gra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Gracz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/KlasaKonfiguracyjna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Automat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/GeneratorTicketow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/IGeneratorTicketow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Poczta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Rejestracja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/StronaInternetowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/AbstarctPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/AppleMac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/AsusPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/Computer_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/HpPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/SamsungPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/BikeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/Typ_Roweru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/GameCharacter/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/GameCharacter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/Gra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/Gracz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/KlasaKonfiguracyjna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Gra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Gracz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/KlasaKonfiguracyjna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,72 +37,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Poczta.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Stamp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/IGeneratorTicketow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Automat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Rejestracja.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/GeneratorTicketow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/StronaInternetowa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="285">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -106,6 +61,7 @@
       <list>
         <option value="Interface" />
         <option value="Singleton" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -123,12 +79,33 @@
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/przyklad/KlasaKonfiguracyjna.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/KlasaKonfiguracyjna.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/IGeneratorTicketow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Poczta.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/GeneratorTicketow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Rejestracja.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/StronaInternetowa.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Automat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/singleton/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/Computer_Class.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/HpPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/SamsungPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/AppleMac.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/AbstarctPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/AsusPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/AbstarctPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/Typ_Roweru.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/Bike.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/BikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/GameCharacter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/GameCharacter/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Stamp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Main.java" />
       </list>
     </option>
   </component>
@@ -185,6 +162,48 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="GameCharacter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="Pieczatka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
               <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,8 +213,9 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wzorce" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
               <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="przyklad" type="462c0819:PsiDirectoryNode" />
+              <item name="zad1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
@@ -214,7 +234,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553336219895" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553347693188" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -222,6 +242,9 @@
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://docs.google.com/document/d/1sJGkw7sS75FsH4JcO8J-uj0uUglOO55MKQYbRDxdoxw/edit" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javagda21.wzorce.creational.abstractfactory.fabryka_pecetow.abstracfactory.fabryka_rowerow" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,7 +259,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javagda21.wzorce.creational.builder.Pieczatka.Main" />
+      <module name="wzorce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javagda21.wzorce.creational.builder.Pieczatka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javagda21.wzorce.creational.singleton.zad1.Main" />
       <module name="wzorce" />
@@ -252,6 +288,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -266,22 +303,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553328208343</updated>
-      <workItem from="1553328210295" duration="4690000" />
+      <workItem from="1553328210295" duration="12693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4690000" />
+    <option name="totallyTimeSpent" value="12693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28683835" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28683835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.3286517" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -291,7 +329,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,24 +359,17 @@
     <entry file="https://docs.google.com/document/d/1sJGkw7sS75FsH4JcO8J-uj0uUglOO55MKQYbRDxdoxw/edit">
       <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Gracz.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/Gracz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Gra.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/Gra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -349,7 +380,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/przyklad/KlasaKonfiguracyjna.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/KlasaKonfiguracyjna.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -360,17 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Poczta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -406,10 +426,160 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Poczta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        <state relative-caret-position="195">
+          <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/AppleMac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/HpPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/SamsungPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/Computer_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/AbstarctPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/BikeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/Typ_Roweru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/abstracfactory/fabryka_rowerow/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/fabryka_pecetow/AsusPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/GameCharacter/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#308#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/GameCharacter/GameCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Stamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/Pieczatka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
