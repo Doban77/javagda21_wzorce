@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.creational.abstractfactory.fabryka_pecetow.abstracfactory.fabryka_rowerow;
+package com.javagda21.wzorce.creational.abstractfactory.fabryka_rowerow;
 
 public abstract class BikeFactory {
 

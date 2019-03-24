@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.behavioral.strategy;
+package com.javagda21.wzorce.behavioral.strategy.zad_0;
 
 public interface IFormaterCzcionki {
 
